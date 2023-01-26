@@ -1,0 +1,98 @@
+.header {
+    display: flex;
+    width: 100%;
+    max-width: 1920px;
+    margin: 0 auto;
+    align-items: center;
+    gap: 10px;
+}
+
+.img-tel {
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
+}
+
+.belissimoimg {
+    width: 300px;
+    height: 60px;
+    object-fit: contain;
+}
+
+.gorod {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.tashkent {
+    color: green;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.strani {
+    display: flex;
+}
+
+.txt {
+    font-size: 20px;
+    color: green;
+    width: 250px;
+}
+
+.halal {
+    width: 110px;
+    height: 60px;
+    object-fit: contain;
+}
+
+.goroda {
+    display: flex;
+}
+
+.zvezda-div {
+    display: flex;
+    align-items: center;
+    padding: 0px;
+    gap: 0px;
+}
+
+.zvezda-pht {
+    width: 50px;
+    height: 40px;
+    object-fit: contain;
+}
+
+.osenka {
+    font-size: 20px;
+}
+
+.pizza {
+    width: 100%;
+    max-width: 1920px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.pizza img {
+    width: 200px;
+    height: 80px;
+    object-fit: contain;
+    align-items: center;
+}
+
+.left-pizza {
+    display: flex;
+}
+
+.tols {
+    color: gray;
+}
+
+.scolko {
+    gap: 20px;
+    font-size: 23px;
+    background-color: bisque;
+    display: flex;
+}
